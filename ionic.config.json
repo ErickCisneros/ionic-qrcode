@@ -1,0 +1,7 @@
+{
+  "name": "ionic-qrcode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
